@@ -5,7 +5,7 @@ CrisisLens is an NLP + Machine Learning project that classifies tweets as either
 ## 📊 Dataset
 
 - **File:** `tweets.csv`
-- **Dataset Source:** Kaggle (www.kaggle.com/datasets/vstepanenko/disaster-tweets)
+- **Dataset Source:** [Kaggle](www.kaggle.com/datasets/vstepanenko/disaster-tweets)
 - **Rows:** 11,370 tweets
 - **Columns:**
   - `id` — unique tweet identifier
@@ -123,5 +123,6 @@ The app opens in your browser at `http://localhost:8501` and offers:
 ## 👤 Author
 
 **Mayank Kumar Sinha**
+
 B.Sc. Data Science, Bhawanipur College of Creative Arts and Applied Sciences (formerly NSHM College of Management & Technology), Kolkata
 [LinkedIn](https://linkedin.com/in/mayank-sinha07)
