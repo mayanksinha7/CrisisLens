@@ -5,7 +5,7 @@ CrisisLens is an NLP + Machine Learning project that classifies tweets as either
 ## 📊 Dataset
 
 - **File:** `tweets.csv`
-- **Dataset Source:** Kaggle (https:/www.kaggle.com/datasets/vstepanenko/disaster-tweets)
+- **Dataset Source:** Kaggle (www.kaggle.com/datasets/vstepanenko/disaster-tweets)
 - **Rows:** 11,370 tweets
 - **Columns:**
   - `id` — unique tweet identifier
